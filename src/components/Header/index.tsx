@@ -26,13 +26,13 @@ const Header = () => {
         <nav>
           <Links>
             <LinkItem>
-              <Link to="/categorias">Categorias</Link>
+              <Link to="/categories">Categorias</Link>
             </LinkItem>
             <LinkItem>
-              <Link to="/categorias">Novidades</Link>
+              <Link to="/novidades">Novidades</Link>
             </LinkItem>
             <LinkItem>
-              <Link to="/categorias">Promoções</Link>
+              <Link to="/promocoes">Promoções</Link>
             </LinkItem>
           </Links>
         </nav>
